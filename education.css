@@ -1,0 +1,99 @@
+body{
+    background-image: url(image26.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+.container a{
+    color: rgb(252, 250, 250);
+    text-decoration: none;
+    margin: 20px;
+    font-size: 16px;
+    
+    
+    justify-content: center;
+}
+.container{
+    margin-left: 950px;
+    padding: 10px;
+    align-items: center;
+    
+}
+.container a:hover{
+    color: yellow;
+}
+.heading{
+    color: white;
+    margin-left: 665px;
+    margin-top: 75px;
+    text-decoration: underline;
+    font-size: 30px;
+    
+}
+.image2{
+    margin-left: 50px;
+    margin-top: 75px;
+}
+#image2{
+    border-style: solid;
+    border-color: white;
+    border-radius: 3px;
+    border-radius: 40px;
+    height: 250px;
+    width: 250px;
+
+}
+
+.image3{
+    margin-left: 50px;
+    margin-top: 75px;
+}
+#image3{
+    border-style: solid;
+    border-color: white;
+    border-radius: 3px;
+    border-radius: 40px;
+    height: 250px;
+    width: 300px;
+
+}
+
+.image1{
+    margin-left: 285px;
+    margin-top: 75px;
+}
+#image1{
+    border-style: solid;
+    border-color: white;
+    border-radius: 3px;
+    border-radius: 40px;
+    height: 250px;
+    width: 300px;
+
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+}
+.text1{
+    color: white;
+    margin-left: 350px;
+    font-size: 25px;
+}
+.text2{
+    color: white;
+    margin-left: 145px;
+    font-size: 25px;
+}
+.text3{
+    color: white;
+    margin-left: 120px;
+    font-size: 25px;
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+}

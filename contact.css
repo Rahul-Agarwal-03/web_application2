@@ -1,0 +1,101 @@
+body{
+    background-image: url(image34.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    color: white;
+    text-decoration: underline;
+    margin-left: 50px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
+.links{
+    color: yellow;
+    font-size: 25px;
+    margin-left: 70px;
+}
+
+.link_head{
+    color: white;
+    font-size: 35px;
+    text-decoration: underline;
+    margin-left: 50px;
+}
+header{
+    background-color: #030303;
+    margin: 0px;
+    height: 40px;
+    
+}
+.container a{
+    color: rgb(252, 250, 250);
+    text-decoration: none;
+    margin: 20px;
+    font-size: 16px;
+    
+    
+    justify-content: center;
+}
+.container{
+    margin-left: 950px;
+    padding: 10px;
+    align-items: center;
+    
+}
+.container a:hover{
+    color: yellow;
+}
+.user{
+    color: white;
+    margin-right: 20px;
+    margin-left: 50px;
+    font-size: 23px;
+}
+.forms{
+    margin-top: 30px;
+    
+}
+.Contact_no{
+    margin-left: 50px;
+    margin-right: 0px;
+    color: white;
+    font-size: 23px;
+    
+}
+.email{
+    margin-left: 50px;
+    color: white;
+    font-size: 23px;
+}
+#username{
+    margin-left: 50px;
+    width: 350px;
+    margin-bottom: 10px;
+    height: 20px;
+}
+#number{
+    margin-left: 50px;
+    width: 350px;
+    margin-bottom: 10px;
+    height: 20px;
+}
+#email{
+    margin-left: 50px;
+    width: 350px;
+    margin-bottom: 45px;
+    height: 20px;
+}
+.head1{
+    color: white;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 28px;
+    margin-left: 50px;
+}
+

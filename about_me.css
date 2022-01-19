@@ -1,0 +1,106 @@
+body{
+    background-color: #030338;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(image7.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    
+    
+    
+    
+
+}
+header{
+    background-color: #030303;
+    margin: 0px;
+    height: 40px;
+    
+}
+.container a{
+    color: rgb(252, 250, 250);
+    text-decoration: none;
+    margin: 20px;
+    font-size: 16px;
+    
+    
+    justify-content: center;
+}
+.container{
+    margin-left: 950px;
+    padding: 10px;
+    align-items: center;
+    
+}
+.container a:hover{
+    color: yellow;
+}
+.heading{
+    color: white;
+    margin-left: 600px;
+    margin-top: 30px;
+    font-size: 60px;
+    text-decoration: underline;
+    font-family: 'Times New Roman';
+
+}
+
+.head{
+    color: rgb(253, 249, 249);
+    border-style: solid;
+    width: 30%;
+    padding: 20px;
+    padding-left: 50px;
+    justify-content: center;
+    margin-left: 650px;
+    margin-top: 75px;
+    border-radius: 20px;
+    font-size: 30px;
+    font-style: italic;
+
+}
+
+
+#image1{
+    border-style: solid;
+    border-color: rgb(252, 251, 251);
+    border-radius: 20px;
+    border-width: 3px;
+    height: 350px;
+float: left;
+    
+    margin-left: 200px;
+    margin-top: 10px;
+    
+    
+
+    
+}
+.about{
+    color: rgb(250, 246, 246);
+    width: 750px;
+    float: left;
+    margin-left: 100px;
+    margin-top:  25px;
+    font-size: 20px;
+}
+.container1{
+    background-image: url(image11.jpeg);
+    
+}
+.button{
+    margin-top: 280px;
+    margin-left: 1150px;
+    
+}
+.button a{
+    text-decoration: none;
+    color: black;
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: white;
+}
+
+
